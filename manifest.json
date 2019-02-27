@@ -1,7 +1,7 @@
 {
-    "name": "password viewer",
+    "name": "Color Changer",
     "version": "1.0",
-    "description": "This extension allows you to view the password at password fields.",
+    "description": "This extension allows you to change the bg color of webpages.",
     "permissions": ["activeTab", "declarativeContent", "storage"],
     "background": {
         "scripts": ["background.js"],
